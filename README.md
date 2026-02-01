@@ -45,11 +45,7 @@ Currently focused on building **solid full-stack projects** and sharpening **pro
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vip23anchib&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vip23anchib&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vip23anchib&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
