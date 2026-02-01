@@ -1,34 +1,47 @@
-<h1 align="center">✨ Hey there, I'm Vipanchi 👋</h1>
+<h1 align="center">Hey, I'm Vipanchi 👋</h1>
 
 <p align="center">
-Aspiring Software Developer | Tech Enthusiast | Lifelong Learner
+<b>B.Tech CSE @ VIT</b> • Fast Learner • Tech Enthusiast • Problem Solver
 </p>
+
+<p align="center">
+I enjoy turning ideas into clean, working software and learning fast by building things that actually matter.
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE student at Vellore Institute Of Technology 
-- 💡 Interested in Web Development, AI, and Real-World Problem Solving  
-- 🧠 Languages: Python, C++, JavaScript  
-- 🌱 Currently learning Full Stack Development  
-- 🔥 Love building and breaking things to understand them
+- 🎓 **B.Tech Computer Science** at *Vellore Institute of Technology*  
+- 📊 **9.0 CGPA** — strong academics with consistent performance  
+- ⚡ **Fast learner** who adapts quickly to new tools and technologies  
+- 💻 Interested in **Web Development**, **AI**, and **real-world problem solving**  
+- 🧠 Comfortable with **Python, C++, JavaScript**  
+- 🔍 Believe in *breaking systems to understand them better*
+
+Currently focused on building **solid full-stack projects** and sharpening **problem-solving skills**.
+
+---
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,java,django,html,css,bootstrap,js,npm,react,nodejs,mongodb,git,github,vscode)
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vip23anchib&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,django,html,css,bootstrap,js,npm,react,nodejs,mongodb,git,github,vscode" />
 </p>
 
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vip23anchib&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vip23anchib&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vip23anchib&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -43,15 +56,12 @@ Aspiring Software Developer | Tech Enthusiast | Lifelong Learner
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://github.com/vip23anchib">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
-
 
 ---
 
 <p align="center">
-"Keep learning, keep building, and never stop exploring 🚀"
+<i>"Consistency compounds. Small progress every day."</i> 🚀
 </p>
-
