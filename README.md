@@ -59,9 +59,6 @@ Currently focused on building **solid full-stack projects** and sharpening **pro
   <a href="https://www.linkedin.com/in/vipanchi-barman-9a5b2a289/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/u/vip23anchi/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode" />
-  </a>
   <a href="https://github.com/vip23anchib">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
