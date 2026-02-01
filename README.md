@@ -31,6 +31,17 @@ Currently focused on building **solid full-stack projects** and sharpening **pro
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vip23anchib
+  &theme=tokyonight
+  &hide_border=true
+  &border_radius=10
+  &fire=FF4D8D
+  &ring=FF4D8D
+  &currStreakLabel=FFD166" />
+</p>
+
+
 ## 📊 GitHub Activity
 
 <p align="center">
