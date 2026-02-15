@@ -13,7 +13,6 @@ I enjoy turning ideas into clean, working software and learning fast by building
 ## 🚀 About Me
 
 - 🎓 **B.Tech Computer Science** at *Vellore Institute of Technology*  
-- 📊 **9.0 CGPA** — strong academics with consistent performance  
 - ⚡ **Fast learner** who adapts quickly to new tools and technologies  
 - 💻 Interested in **Web Development**, **AI**, and **real-world problem solving**  
 - 🧠 Comfortable with **Python, C++, JavaScript**  
