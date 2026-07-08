@@ -1,162 +1,199 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Vipanchi%20Barman&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn"/>
+</p>
 
+<h1 align="center">Hi 👋, I'm Vipanchi Barman</h1>
 
-# Vipanchi Barman
+<h3 align="center">
+Backend Developer • Full Stack Enthusiast • AI & Machine Learning Learner
+</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=6f42c1&text=Vipanchi%20Barman&fontColor=ffffff&fontSize=42"/>
+Building scalable applications, solving real-world problems, and constantly learning through hands-on development.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=8A63FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast"/>
+<a href="mailto:barman23vipanchi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vipanchi-barman-9a5b2a289/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vip23anchib">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
-<a href="mailto:barman23vipanchi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6f42c1?style=for-the-badge"/></a>
-<a href="https://github.com/vip23anchib"><img src="https://img.shields.io/badge/GitHub-vip23anchib-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/vipanchi-barman9a5b2a289"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=9D6BFF&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Backend+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vip23anchib&label=Profile%20Views&color=8A63FF&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/vip23anchib?label=Followers&style=flat-square&color=8A63FF"/>
+
+<img src="https://img.shields.io/github/stars/vip23anchib?affiliations=OWNER&label=Stars&style=flat-square&color=8A63FF"/>
 </p>
 
 ---
 
-## About Me
+# 💫 About Me
 
-Computer Science undergraduate at **VIT Bhopal University (CGPA 9.02)** focused on backend engineering, scalable systems, AI-powered products and full-stack development.
+🎓 **B.Tech Computer Science** — **VIT Bhopal University** *(CGPA: 9.02/10)*
 
-### Open To
-- Software Engineering Internships
-- Backend Development
-- Full Stack Engineering
-- AI/ML Projects
-- Open Source
+💻 Passionate about **Backend Development**, **Full Stack Engineering**, and **AI-powered applications**
 
----
+🚀 I enjoy designing scalable software that solves practical, real-world problems.
 
-# Tech Stack
+🧠 Strong foundation in
 
-## Languages
-Python • C++ • Java • JavaScript
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- REST APIs
+- Software Engineering Principles
 
-## Frontend
-React • Next.js • HTML • CSS • Tailwind • Bootstrap
+🌱 **Currently Learning**
 
-## Backend
-Django • DRF • Node.js • Express
-
-## Databases
-PostgreSQL • MongoDB • MySQL • Firestore
-
-## AI
-Pandas • NumPy • Whisper • PyAnnote • FFmpeg
-
-# PART 2 — AI + Projects
+- Advanced Django
+- Machine Learning
+- System Design
+- Cloud Computing
 
 ---
 
-# AI / ML Expertise
+# ⚙️ Tech Stack
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Speech Analytics | Intermediate | Whisper, PyAnnote |
-| NLP | Intermediate | Resume Parsing |
-| Data Processing | Advanced | Pandas, NumPy |
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,java,django,react,nodejs,express,html,css,js,bootstrap,tailwind,mongodb,mysql,postgres,firebase,git,github,vscode&perline=10"/>
 
-# Featured Projects
-
-<details><summary><b>HireMind ATS</b></summary>
-
-Production Applicant Tracking System built with Django, DRF and PostgreSQL.
-
-| Stack | Scale | Security | Impact |
-|---|---|---|---|
-| Django, DRF | Enterprise | Auth + REST | Automated Hiring |
-
-</details>
-
-<details><summary><b>Chemical Equipment Visualizer</b></summary>
-
-Cross-platform analytics platform using React + Django + PyQt5.
-
-</details>
-
-<details><summary><b>MediChain</b></summary>
-
-Healthcare management platform with authentication, appointments and dashboards.
-
-</details>
-# PART 3 — Experience, Achievements
+</p>
 
 ---
 
-# Experience
+# 🚀 Featured Projects
 
-## Python Backend Developer Intern — Meslova Systems
+## 📌 HireMind — Applicant Tracking System
 
-- Applicant Tracking System
-- Audio Analytics
-- Django REST APIs
-- PostgreSQL
-
-## Backend Developer Intern — Saurabhi Media
-
-- CSV Automation
-- CI/CD
-- Data Processing
+- Enterprise-grade ATS built using **Django** & **Django REST Framework**
+- Resume Parsing
+- Recruiter Dashboard
+- Candidate Search & Filtering
+- PostgreSQL Database
 
 ---
 
-# Achievements
+## 🏥 MediChain — Healthcare Management System
 
-| Recognition | Details |
-|---|---|
-| Cyber for HER | Top 20 Finalist |
-| SIH | Finalist |
-| LeetCode | 200+ Problems |
-| IIT Bombay E-Cell | Campus Ambassador |
-
----
-
-# PART 4 — Analytics & Footer
+- React
+- Firebase Authentication
+- Doctor & Patient Dashboards
+- Appointment Booking
+- Medical Record Management
 
 ---
 
-# GitHub Analytics
+## 📊 Chemical Equipment Visualizer
 
-```md
-https://github-readme-stats.vercel.app/api?username=vip23anchib
-https://github-readme-streak-stats.herokuapp.com?user=vip23anchib
-https://github-readme-stats.vercel.app/api/top-langs/?username=vip23anchib
-https://github-profile-trophy.vercel.app/?username=vip23anchib
-https://github-readme-activity-graph.vercel.app/graph?username=vip23anchib
-```
+- React + Django + PyQt5
+- REST APIs
+- CSV Processing
+- Interactive Data Visualization
 
 ---
 
-# Current Focus
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vip23anchib&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=vip23anchib&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vip23anchib&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vip23anchib&theme=algolia&margin-w=10&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vip23anchib&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
 Learning:
- - System Design
- - Machine Learning
+  - Machine Learning
+  - System Design
+  - Cloud Technologies
 
 Building:
- - AI Products
- - Full Stack Apps
+  - Full Stack Applications
+  - AI-powered Products
 
 Exploring:
- - Cloud
- - LLMs
+  - Large Language Models
+  - Distributed Systems
 
-OpenTo:
- - SWE Internships
+Open To:
+  - Software Engineering Internships
+  - Backend Development
+  - Open Source Contributions
 ```
 
 ---
 
-> Building software that solves real-world problems.
+# 🤝 Connect With Me
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=6f42c1"/>
+
+<a href="mailto:barman23vipanchi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vipanchi-barman-9a5b2a289/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vip23anchib">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
+---
+
+<p align="center">
+
+*"Building software that creates real-world impact through clean engineering and continuous learning."*
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=gradient&customColorList=12,20,24,30"/>
+</p>
