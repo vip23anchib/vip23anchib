@@ -94,6 +94,7 @@ Building scalable applications, solving real-world problems, and constantly lear
 - Doctor & Patient Dashboards
 - Appointment Booking
 - Medical Record Management
+- TypeScript
 
 ---
 
@@ -122,15 +123,6 @@ Building scalable applications, solving real-world problems, and constantly lear
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vip23anchib&theme=algolia&margin-w=10&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
